@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君の大事にしてるもの",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-02-07T17:03:00.534970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君の大事にしてるもの",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/01_君の大事にしてるもの_SHISHAMO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の大事にしてるもの",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_君の大事にしてるもの_SHISHAMO.txt"
+    }
+  ]
+}
